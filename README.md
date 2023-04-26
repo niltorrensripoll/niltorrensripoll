@@ -7,4 +7,4 @@
 [![Programaris](https://skillicons.dev/icons?i=linux,replit,mongodb,vscode)](https://skillicons.dev)
 
 ### Les meves xarxes socials:
-[![Xarxes](https://skillicons.dev/icons?i=discord,instagram,github,linkedin,twitter)](https://skillicons.dev)
+[![Xarxes](https://skillicons.dev/icons?i=instagram,github,discord,linkedin,twitter)](https://skillicons.dev)
