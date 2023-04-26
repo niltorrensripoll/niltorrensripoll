@@ -14,6 +14,6 @@ Sóc en Nil Torrens Ripoll, un jove de 18 anys de Barcelona, Catalunya.<br>La me
 
 <div> 
   <h3>Xarxes Socials</h3>
-  <a href="https://discord.gg/vEZUB7CEBB" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://youtu.be/mCdA4bJAGGk" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/nil_torrensripoll" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
