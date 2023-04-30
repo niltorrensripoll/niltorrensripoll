@@ -1,4 +1,4 @@
-# 💅 Digues-li-ho Tata
+# 🧐 Digues-li-ho Tata
 
 **`Estudiant (SMX/Vull ser Programador web)`**
 
