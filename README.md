@@ -1,6 +1,6 @@
 # 💅 Digues-li-ho Tata
 
-**`Estudiant (SMX/Futur Programador web)`**
+**`Estudiant (SMX/Vull ser Programador web)`**
 
 Sóc en Nil Torrens Ripoll, un jove de 18 anys de Barcelona, Catalunya.<br>La meva passió és la programació i actualment estic estudiant un grau mitjà en Sistemes Microinformàtics i Xarxes. El meu objectiu és convertir-me en programador web.<br>No sóc un gran fan de les xarxes socials, però si vols contacar amb mi, pots fer-ho a través de Discord. Estic sempre disposat a escoltar noves oportunitats i col·laboracions.
 
