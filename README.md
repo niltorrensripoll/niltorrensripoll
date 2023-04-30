@@ -1,4 +1,4 @@
-# 🧐 Digues-li-ho Tata
+# 🧐 Nil TR
 
 **`Estudiant (SMX/Vull ser Programador web)`**
 
