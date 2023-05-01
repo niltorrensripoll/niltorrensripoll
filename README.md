@@ -1,8 +1,8 @@
-# 🧐 Nil TR
+# 🧐 Nil
 
 **`Estudiant`**
 
-Sóc en Nil Torrens Ripoll, un jove de 18 anys.<br>La meva passió és la programació i actualment estic estudiant un grau mitjà en informàtica. El meu objectiu és convertir-me en programador web.<br>No sóc un gran fan de les xarxes socials, però si vols contacar amb mi, pots fer-ho a través de Discord. Estic sempre disposat a escoltar noves oportunitats.
+Sóc en Nil, un jove de 18 anys.<br>La meva passió és la programació i actualment estic estudiant un grau mitjà en informàtica. El meu objectiu és convertir-me en programador web.<br>No sóc un gran fan de les xarxes socials, però si vols contacar amb mi, pots fer-ho a través de Discord. Estic sempre disposat a escoltar noves oportunitats.
 
 <div style="display: inline_block">
   <h3>Algunes habilitats</h3>
